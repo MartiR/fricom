@@ -1,4 +1,3 @@
-
 <div class="fixed-bottom full-width">
 <footer>
     <div class="row">
@@ -10,7 +9,7 @@
             </li>
             <li>Désirez-vous <a href="#">connaître l'équipe</a> ?
             </li>
-           <li> Des questions, des remarques ? <a href="mailto:freecom@gmail.com">Contactez-nous &rarr;</a>
+           <li> Des questions, des remarques ? <a href="mailto:redaction.fricom@gmail.com">Contactez-nous &rarr;</a>
         </li>
       </ul>
       </div>
